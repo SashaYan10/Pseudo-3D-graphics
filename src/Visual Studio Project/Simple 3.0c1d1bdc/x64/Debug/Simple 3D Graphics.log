@@ -1,0 +1,4 @@
+﻿  Simple 3D Graphics.cpp
+C:\Курсова робота\1 курс (універ)\Code\Simple 3D Graphics\Simple 3D Graphics.cpp(123,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Курсова робота\1 курс (універ)\Code\Simple 3D Graphics\Simple 3D Graphics.cpp(131,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Simple 3D Graphics.vcxproj -> C:\Курсова робота\1 курс (універ)\Code\Simple 3D Graphics\x64\Debug\Simple 3D Graphics.exe

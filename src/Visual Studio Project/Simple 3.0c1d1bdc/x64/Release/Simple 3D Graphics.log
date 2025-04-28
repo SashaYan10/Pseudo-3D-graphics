@@ -1,0 +1,9 @@
+﻿  Simple 3D Graphics.cpp
+C:\Курсова робота\1 курс (універ)\Code\Project\Simple 3D Graphics.cpp(123,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Курсова робота\1 курс (універ)\Code\Project\Simple 3D Graphics.cpp(130,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  163 of 168 functions (97.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Simple 3D Graphics.vcxproj -> C:\Курсова робота\1 курс (універ)\Code\Project\x64\Release\Simple 3D Graphics.exe
